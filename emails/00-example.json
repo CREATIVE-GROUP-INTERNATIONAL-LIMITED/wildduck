@@ -4,7 +4,7 @@
     "flag": true,
 
     "from": {
-        "name": "WildDuck Support",
+        "name": "Koodeyo Mail Support",
         "address": "info@[DOMAIN]"
     },
     "to": {
@@ -12,5 +12,5 @@
         "address": "[EMAIL]"
     },
 
-    "subject": "[FNAME], welcome to our awesome service!"
+    "subject": "[FNAME], welcome to our koodeyo mail service!"
 }
