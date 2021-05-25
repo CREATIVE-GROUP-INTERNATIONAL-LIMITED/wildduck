@@ -1,5 +1,8 @@
 # WildDuck Mail Server
 
+>wget -O - https://raw.githubusercontent.com/KOODEYO-MAIL/wildduck/master/setup/get_install.sh | bash
+>./install.sh koodeyo.com mail.koodeyo.com
+
 <p align="center">
   <a href="https://wildduck.email" target="blank"><img src="./graphics/wildduck-type.svg" width="256" alt="Wild Duck" /></a>
   <br />

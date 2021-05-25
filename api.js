@@ -528,7 +528,7 @@ module.exports = done => {
         log.error('API', err);
     });
 
-    server.listen(config.api.port, config.api.host, () => {
+    server.listen(config.api.port, '0.0.0.0' || config.api.host, () => {
         if (started) {
             return server.close();
         }
